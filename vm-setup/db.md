@@ -1,4 +1,3 @@
-Here's a concise GitHub documentation draft for the steps provided:
 # Expense App Database Setup
 
 
