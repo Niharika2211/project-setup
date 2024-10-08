@@ -31,7 +31,6 @@ git clone https://github.com/Niharika2211/expense-backend.git /app
 
 Install the required Node.js packages for the backend:
 ```bash
-cd expense-backend
 npm install
 ```
 
