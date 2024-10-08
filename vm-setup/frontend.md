@@ -24,8 +24,7 @@ rm -rf /usr/share/nginx/html/*
 
 Navigate to the Nginx directory and clone the Expense App frontend:
 ```bash
-cd /usr/share/nginx/html/
-git clone https://github.com/Niharika2211/expense-frontend.git
+git clone https://github.com/Niharika2211/expense-frontend.git /usr/share/nginx/html/
 ```
 
 ## 4. Configure Nginx for Proxy and Health Check
