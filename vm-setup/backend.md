@@ -80,7 +80,7 @@ systemctl status backend
 
 ### Monitor the service logs in real-time:
 ```bash
-journalctl -u -f backend
+journalctl -u backend -f
 ```
 
 ### Verify network ports:
