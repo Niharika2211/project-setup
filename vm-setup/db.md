@@ -28,7 +28,7 @@ git clone https://github.com/Niharika2211/expense-schema.git
 ## 5. Import the Schema into MySQL
 Navigate to the directory where the `expense-schema.sql` file is located, then import the SQL schema into MySQL:
 ```bash
-mysql < expense-schema.sql
+mysql < backend.sql
 ```
 
 ## 6. Verify the Database Setup
