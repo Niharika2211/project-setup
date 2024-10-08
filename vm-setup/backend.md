@@ -24,8 +24,7 @@ useradd expense
 Create the application directory, navigate to it, and clone the backend repository:
 ```bash
 mkdir /app
-cd /app
-git clone https://github.com/Niharika2211/expense-backend.git
+git clone https://github.com/Niharika2211/expense-backend.git /app
 ```
 
 ## 4. Install Dependencies
