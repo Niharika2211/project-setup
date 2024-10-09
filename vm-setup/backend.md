@@ -53,7 +53,7 @@ Environment=DB_HOST="172.31.43.131"
 Environment=DB_USER="expense"
 Environment=DB_PWD="ExpenseApp@1"
 Environment=DB_DATABASE="transactions"
-ExecStart=/bin/node /app/expense-backend/index.js
+ExecStart=/bin/node /app/index.js
 SyslogIdentifier=backend
 
 [Install]
